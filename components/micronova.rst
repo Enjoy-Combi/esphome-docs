@@ -149,7 +149,7 @@ Numbers
           name: Thermostat temperature
           step: 0.5
         power_level:
-          name: Thermostat temperature
+          name: Power level
 
 Configuration variables:
 ~~~~~~~~~~~~~~~~~~~~~~~~
